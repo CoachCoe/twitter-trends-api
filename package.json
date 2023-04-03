@@ -25,9 +25,9 @@
   "engines": {
     "node": "*"
   },
-  "devDependencies": {},
   "keywords": [],
   "dependencies": {
-    "twitter-api-client": "^1.3.7"
+    "twitter-api-client": "^1.3.7",
+    "twittertrendsapi.js": "^1.0.0"
   }
 }
